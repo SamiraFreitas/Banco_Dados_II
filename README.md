@@ -11,7 +11,7 @@
 This repository refers to the work for the Database II subject. The work will be developed by a pair, it will contain shared knowledge that will be applied to analyzing databases on the Web-based platform to work with Spark in addition to Python.
 
 
-## 👾 Tecnologias Utilizadas 
+## 👾 Technologies used
 - Python 
 - Pandas 
 - MatPlotLib
@@ -19,7 +19,7 @@ This repository refers to the work for the Database II subject. The work will be
 - DataBricks
 - Jupyter Notebook
 
-## 💞 Contribuição
+## 💞 Contribution
 
  The project is free to access and use, so feel free to Fork and use it, as well as suggest tips and improvements.
   
