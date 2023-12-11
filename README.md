@@ -8,7 +8,7 @@
 
 
 ## 📝 Sobre 
-Este repositório é referente ao trabalho para a matéria de Banco de Dados II. O trabalho sera desenvolvido por uma dupla, ele irá conter conhecimentos compartilhados que serão aplicados em analisar bases de dados naplataforma baseada em Web para trabalhar com o Spark além de   Python.
+This repository refers to the work for the Database II subject. The work will be developed by a pair, it will contain shared knowledge that will be applied to analyzing databases on the Web-based platform to work with Spark in addition to Python.
 
 
 ## 👾 Tecnologias Utilizadas 
@@ -21,6 +21,6 @@ Este repositório é referente ao trabalho para a matéria de Banco de Dados II.
 
 ## 💞 Contribuição
 
- O projeto é de livre acesso e uso, então fique à-vontade para realizar um Fork e utilizar do mesmo, como também sugerir dicas e melhorias.
+ The project is free to access and use, so feel free to Fork and use it, as well as suggest tips and improvements.
   
 
